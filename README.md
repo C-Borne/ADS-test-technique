@@ -28,5 +28,5 @@ Either open the notebooks in VSCode.
 Or in you browser with:
 
 ```bash
-jupyter notebook
-````
+python -m notebook
+```
