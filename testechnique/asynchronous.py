@@ -25,6 +25,6 @@ async def main():
 
 if __name__ == "__main__":
     # Explain the code above.
-    # Which file will be read first ?
-    # What does it depend on ?
+    # Which file will be read first ? We do not know
+    # What does it depend on ? Length of the files, CPU thread handling
     asyncio.run(main())
